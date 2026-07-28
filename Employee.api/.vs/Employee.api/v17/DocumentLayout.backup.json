@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\model\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\model\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Program.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Program.cs",
+              "RelativeToolTip": "Employee.api\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T22:15:15.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\appsettings.json",
+              "RelativeToolTip": "Employee.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-27T22:08:21.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeToolTip": "Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T21:53:04.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\Employee.cs",
+              "RelativeToolTip": "Employee.api\\Model\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T21:09:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\Designation.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Model\\Designation.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\Designation.cs",
+              "RelativeToolTip": "Employee.api\\Model\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T20:59:25.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Model\\Department.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\Department.cs",
+              "RelativeToolTip": "Employee.api\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T20:47:40.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Model\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Model\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee.api\\Model\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T20:43:53.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

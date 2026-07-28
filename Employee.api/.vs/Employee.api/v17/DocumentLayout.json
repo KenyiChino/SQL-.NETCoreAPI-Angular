@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\controllers\\employeemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\controllers\\designationmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\controllers\\designationmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto162\\employee.api\\employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E41582-F751-418B-848F-0C19FF0CE70D}|Employee.api\\Employee.api.csproj|solutionrelative:employee.api\\controllers\\departmentmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\EmployeeMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Controllers\\EmployeeMasterController.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\EmployeeMasterController.cs",
+              "RelativeToolTip": "Employee.api\\Controllers\\EmployeeMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T23:58:44.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignationMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\DesignationMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Controllers\\DesignationMasterController.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\DesignationMasterController.cs",
+              "RelativeToolTip": "Employee.api\\Controllers\\DesignationMasterController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T22:44:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto162\\Employee.api\\Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "RelativeToolTip": "Employee.api\\Controllers\\DepartmentMasterController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T21:53:04.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
